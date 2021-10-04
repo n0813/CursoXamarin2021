@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MiPrimeraAppEnXamarinForms.Pages.Marca">
+    <ContentPage.ToolbarItems>
+        <ToolbarItem x:Name="toolbarRegistrar"  IconImageSource="ic_add_xam.png"
+                     Clicked="toolbarRegistrar_Clicked" />
+    </ContentPage.ToolbarItems>
+    <ContentPage.Content>
+        <StackLayout>
+            
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

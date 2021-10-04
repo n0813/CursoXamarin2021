@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             Title="Inicio de Sesion"
+             x:Class="MiPrimeraAppEnXamarinForms.MainPage">
+
+    <ContentPage.Resources>
+
+        <ResourceDictionary>
+
+          
+          
+
+
+        </ResourceDictionary>
+        
+    </ContentPage.Resources>
+
+    <StackLayout Orientation="Vertical" Margin="10" VerticalOptions="Center" >
+
+        <Label Text="Bienvenido a la Aplicacion"  Style="{StaticResource estiloLabel}"
+               FontSize="30" TextColor="#6c757d" />
+
+        <Image
+            Source="xamarin.jpg"
+            WidthRequest="180"
+            HeightRequest="180"
+            />
+
+        <Label Text="Usuario"  Style="{StaticResource estiloLabel}"
+                />
+
+        <Entry  Keyboard="Text" Text="{Binding nombreusuario}" />
+
+        <Label Text="Contraseña" Style="{StaticResource estiloLabel}"
+                />
+
+        <Entry  IsPassword="True" Text="{Binding contra}" />
+
+        <StackLayout Orientation="Horizontal" HorizontalOptions="Center">
+            <Button x:Name="btnIniciar" Clicked="btnIniciar_Clicked" Text="Iniciar" Style="{StaticResource colorVerde}" />
+            <Button x:Name="btnRegistrar" Clicked="btnRegistrar_Clicked" Text="Registar" Style="{StaticResource colorAzul}" />
+        </StackLayout>
+
+    </StackLayout>
+
+</ContentPage>
