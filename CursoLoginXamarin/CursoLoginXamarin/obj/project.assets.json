@@ -539,11 +539,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/nando/Desktop/Cursos/XamarinCurso2021/CursoLoginXamarin/CursoLoginXamarin/CursoLoginXamarin.csproj",
+      "projectUniqueName": "/Users/nando/Documents/Developer/CursoXamarin2021/CursoLoginXamarin/CursoLoginXamarin/CursoLoginXamarin.csproj",
       "projectName": "CursoLoginXamarin",
-      "projectPath": "/Users/nando/Desktop/Cursos/XamarinCurso2021/CursoLoginXamarin/CursoLoginXamarin/CursoLoginXamarin.csproj",
+      "projectPath": "/Users/nando/Documents/Developer/CursoXamarin2021/CursoLoginXamarin/CursoLoginXamarin/CursoLoginXamarin.csproj",
       "packagesPath": "/Users/nando/.nuget/packages/",
-      "outputPath": "/Users/nando/Desktop/Cursos/XamarinCurso2021/CursoLoginXamarin/CursoLoginXamarin/obj/",
+      "outputPath": "/Users/nando/Documents/Developer/CursoXamarin2021/CursoLoginXamarin/CursoLoginXamarin/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/nando/.config/NuGet/NuGet.Config"

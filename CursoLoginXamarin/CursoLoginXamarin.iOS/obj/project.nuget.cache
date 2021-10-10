@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sAKiq2EvoV6gqXIvA0ADA5MjgYUcwGhV8DxGjZ2Dnh0OnloqJclNLBxXooBr2KVsXhLmEOOfMH5icwdjFAxkkw==",
+  "dgSpecHash": "IZg/rs5HiFquwsdfiywMsPHQZB+NxeXZ9Q8hU6SVe5JPRbRuA6rrcSQvOazGd+QlRGyyut/2KVRthy+fxvztFA==",
   "success": true,
-  "projectFilePath": "/Users/nando/Desktop/Cursos/XamarinCurso2021/CursoLoginXamarin/CursoLoginXamarin.iOS/CursoLoginXamarin.iOS.csproj",
+  "projectFilePath": "/Users/nando/Documents/Developer/CursoXamarin2021/CursoLoginXamarin/CursoLoginXamarin.iOS/CursoLoginXamarin.iOS.csproj",
   "expectedPackageFiles": [
     "/Users/nando/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
     "/Users/nando/.nuget/packages/xamarin.essentials/1.6.1/xamarin.essentials.1.6.1.nupkg.sha512",

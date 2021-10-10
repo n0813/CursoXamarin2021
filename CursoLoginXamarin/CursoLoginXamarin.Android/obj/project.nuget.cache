@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZdKgC9eAk5YtYkxLqOb8IJV/3dW1fdCxZ+9SeP0aUYwOAXHB7jPTdzQuPbO1UVQOFj5nV/YABEYKnK8g654ICA==",
+  "dgSpecHash": "b9ztGhKwcZGJMZMuhRmxepE05ATJx6k7+qmJQNnBAA/i1wezTICiZ+mybUr9KHfpWwyM/w/4+POVIbXV2i/OQw==",
   "success": true,
-  "projectFilePath": "/Users/nando/Desktop/Cursos/XamarinCurso2021/CursoLoginXamarin/CursoLoginXamarin.Android/CursoLoginXamarin.Android.csproj",
+  "projectFilePath": "/Users/nando/Documents/Developer/CursoXamarin2021/CursoLoginXamarin/CursoLoginXamarin.Android/CursoLoginXamarin.Android.csproj",
   "expectedPackageFiles": [
     "/Users/nando/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
     "/Users/nando/.nuget/packages/xamarin.androidx.activity/1.1.0.5/xamarin.androidx.activity.1.1.0.5.nupkg.sha512",

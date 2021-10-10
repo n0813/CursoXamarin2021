@@ -1,0 +1,15 @@
+/Users/nando/Documents/Developer/CursoXamarin2021/CursoLoginXamarin/CursoLoginXamarin/bin/Debug/netstandard2.0/CursoLoginXamarin.deps.json
+/Users/nando/Documents/Developer/CursoXamarin2021/CursoLoginXamarin/CursoLoginXamarin/bin/Debug/netstandard2.0/CursoLoginXamarin.dll
+/Users/nando/Documents/Developer/CursoXamarin2021/CursoLoginXamarin/CursoLoginXamarin/bin/Debug/netstandard2.0/ref/CursoLoginXamarin.dll
+/Users/nando/Documents/Developer/CursoXamarin2021/CursoLoginXamarin/CursoLoginXamarin/bin/Debug/netstandard2.0/CursoLoginXamarin.pdb
+/Users/nando/Documents/Developer/CursoXamarin2021/CursoLoginXamarin/CursoLoginXamarin/obj/Debug/netstandard2.0/CursoLoginXamarin.csproj.AssemblyReference.cache
+/Users/nando/Documents/Developer/CursoXamarin2021/CursoLoginXamarin/CursoLoginXamarin/obj/Debug/netstandard2.0/CursoLoginXamarin.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nando/Documents/Developer/CursoXamarin2021/CursoLoginXamarin/CursoLoginXamarin/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/nando/Documents/Developer/CursoXamarin2021/CursoLoginXamarin/CursoLoginXamarin/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/nando/Documents/Developer/CursoXamarin2021/CursoLoginXamarin/CursoLoginXamarin/obj/Debug/netstandard2.0/CursoLoginXamarin.AssemblyInfoInputs.cache
+/Users/nando/Documents/Developer/CursoXamarin2021/CursoLoginXamarin/CursoLoginXamarin/obj/Debug/netstandard2.0/CursoLoginXamarin.AssemblyInfo.cs
+/Users/nando/Documents/Developer/CursoXamarin2021/CursoLoginXamarin/CursoLoginXamarin/obj/Debug/netstandard2.0/CursoLoginXamarin.csproj.CoreCompileInputs.cache
+/Users/nando/Documents/Developer/CursoXamarin2021/CursoLoginXamarin/CursoLoginXamarin/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/nando/Documents/Developer/CursoXamarin2021/CursoLoginXamarin/CursoLoginXamarin/obj/Debug/netstandard2.0/CursoLoginXamarin.dll
+/Users/nando/Documents/Developer/CursoXamarin2021/CursoLoginXamarin/CursoLoginXamarin/obj/Debug/netstandard2.0/ref/CursoLoginXamarin.dll
+/Users/nando/Documents/Developer/CursoXamarin2021/CursoLoginXamarin/CursoLoginXamarin/obj/Debug/netstandard2.0/CursoLoginXamarin.pdb

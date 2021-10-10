@@ -996,11 +996,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/nando/Desktop/Cursos/XamarinCurso2021/CursoLoginXamarin/CursoLoginXamarin.iOS/CursoLoginXamarin.iOS.csproj",
+      "projectUniqueName": "/Users/nando/Documents/Developer/CursoXamarin2021/CursoLoginXamarin/CursoLoginXamarin.iOS/CursoLoginXamarin.iOS.csproj",
       "projectName": "CursoLoginXamarin.iOS",
-      "projectPath": "/Users/nando/Desktop/Cursos/XamarinCurso2021/CursoLoginXamarin/CursoLoginXamarin.iOS/CursoLoginXamarin.iOS.csproj",
+      "projectPath": "/Users/nando/Documents/Developer/CursoXamarin2021/CursoLoginXamarin/CursoLoginXamarin.iOS/CursoLoginXamarin.iOS.csproj",
       "packagesPath": "/Users/nando/.nuget/packages/",
-      "outputPath": "/Users/nando/Desktop/Cursos/XamarinCurso2021/CursoLoginXamarin/CursoLoginXamarin.iOS/obj/",
+      "outputPath": "/Users/nando/Documents/Developer/CursoXamarin2021/CursoLoginXamarin/CursoLoginXamarin.iOS/obj/",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -1015,8 +1015,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "/Users/nando/Desktop/Cursos/XamarinCurso2021/CursoLoginXamarin/CursoLoginXamarin/CursoLoginXamarin.csproj": {
-              "projectPath": "/Users/nando/Desktop/Cursos/XamarinCurso2021/CursoLoginXamarin/CursoLoginXamarin/CursoLoginXamarin.csproj"
+            "/Users/nando/Documents/Developer/CursoXamarin2021/CursoLoginXamarin/CursoLoginXamarin/CursoLoginXamarin.csproj": {
+              "projectPath": "/Users/nando/Documents/Developer/CursoXamarin2021/CursoLoginXamarin/CursoLoginXamarin/CursoLoginXamarin.csproj"
             }
           }
         }

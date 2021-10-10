@@ -4,13 +4,14 @@
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="CursoLoginXamarin" expanded="True" selected="True" />
+          <Node name="CursoLoginXamarin" expanded="True">
+            <Node name="CursoLoginXamarin" selected="True" />
+          </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.CursoLoginXamarin FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.CursoLoginXamarin.Android FirstBuild="True" PreferredExecutionTarget="Android.pixel_2_pie_9_0_-_api_28" />
+  <MonoDevelop.Ide.ItemProperties.CursoLoginXamarin.Android PreferredExecutionTarget="Android.pixel_2_pie_9_0_-_api_28" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rZNzpofAlghz0sLqgAeSlL7GF8Lbdg+KukZVnQ3a05BmXrrPcObFU5OmSkDMx3XjeSTvYnr25KTUfOibrh+TqA==",
+  "dgSpecHash": "YMqclaaZVtuSGRzKc10qNAMygAH9gItyC64LMTOC7hFt/otFJUoukEm2tdyB4WY6mfglidOFgrd7GVszJKf3NQ==",
   "success": true,
-  "projectFilePath": "/Users/nando/Desktop/Cursos/XamarinCurso2021/CursoLoginXamarin/CursoLoginXamarin/CursoLoginXamarin.csproj",
+  "projectFilePath": "/Users/nando/Documents/Developer/CursoXamarin2021/CursoLoginXamarin/CursoLoginXamarin/CursoLoginXamarin.csproj",
   "expectedPackageFiles": [
     "/Users/nando/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "/Users/nando/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
